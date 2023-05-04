@@ -75,3 +75,10 @@
     line-height: 18px;
     color: var(--vermelho);
 }
+
+#erro {
+    margin-left: 1em;
+    margin-top: 1em;
+    color: darkred;
+    font-weight: bold;
+}
